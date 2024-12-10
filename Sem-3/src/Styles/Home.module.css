@@ -1,0 +1,38 @@
+nav {
+  background-color: #2c3e50; /* Dark background color */
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+  display: flex; /* Horizontal layout */
+  justify-content: center; /* Center items */
+  list-style: none; /* Remove bullet points */
+  margin: 0;
+  padding: 0;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+nav ul div {
+  margin: 0 1rem; /* Space between items */
+}
+
+nav ul div a {
+  text-decoration: none; /* Remove underline */
+  font-size: 1.2rem;
+  color: #ecf0f1; /* Light text color */
+  font-weight: 600;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  padding: 0.5rem 1rem;
+  border-radius: 4px; /* Rounded edges */
+}
+
+nav ul div a:hover {
+  background-color: #3498db; /* Highlight on hover */
+  color: #fff; /* Text color on hover */
+}
+
+nav ul div a:active {
+  transform: scale(0.95); /* Slight scaling effect when clicked */
+}
