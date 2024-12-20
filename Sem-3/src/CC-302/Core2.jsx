@@ -15,6 +15,15 @@ const Core2 = () => {
         <li>
           <Link to="HenryJames3">HenryJames3</Link>
         </li>
+        <li>
+          <Link to="VirginiaWoolf1">VirginiaWoolf4</Link>
+        </li>
+        <li>
+          <Link to="Huxley2">AldousHuxley5</Link>
+        </li>
+        <li>
+          <Link to="Golding3">WilliamGolding6</Link>
+        </li>
       </ul>
       <Outlet />
     </div>

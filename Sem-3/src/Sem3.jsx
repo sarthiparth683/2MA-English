@@ -26,6 +26,15 @@ import Richard1 from "./CC-304/unit3/Richard1";
 import Richard2 from "./CC-304/unit3/Richard2";
 import Structural from "./CC-304/unit4/Structural";
 import Feminism from "./CC-304/unit5/Feminism";
+import Rajgopal1 from "./CC-301/unit-2/1Rajgopal";
+import RKNarayan2 from "./CC-301/unit-2/2RKNarayan";
+import Anand3 from "./CC-301/unit-2/3Anand";
+import RajaRao4 from "./CC-301/unit-2/4RajaRao";
+import Padmaraju5 from "./CC-301/unit-2/5Padmaraju";
+import Daruwala6 from "./CC-301/unit-2/6Daruwala";
+import VirginiaWoolf1 from "./CC-302/unit2/1VirginiaWoolf";
+import Huxley2 from "./CC-302/unit2/2Huxley";
+import Golding3 from "./CC-302/unit2/3Golding";
 
 const Sem3 = () => {
   return (
@@ -33,16 +42,16 @@ const Sem3 = () => {
       <nav>
         <ul className={styles.navigation}>
           <div>
-            <Link to="/Core1">Core1</Link>
+            <Link to="/Core1">Core-301</Link>
           </div>
           <div>
-            <Link to="/Core2">Core2</Link>
+            <Link to="/Core2">Core-302</Link>
           </div>
           <div>
-            <Link to="/Core3">Core3</Link>
+            <Link to="/Core3">Core-303</Link>
           </div>
           <div>
-            <Link to="/Core4">Core4</Link>
+            <Link to="/Core4">Core-304</Link>
           </div>
         </ul>
       </nav>
@@ -56,12 +65,22 @@ const Sem3 = () => {
           <Route path="Jayant5" element={<Jayant5 />} />
           <Route path="Ramanujan6" element={<Ramanujan6 />} />
           <Route path="Sarthi7" element={<Sarthi7 />} />
+
+          <Route path="Rajgopal1" element={<Rajgopal1 />} />
+          <Route path="RKNarayan2" element={<RKNarayan2 />} />
+          <Route path="Anand3" element={<Anand3 />} />
+          <Route path="RajaRao4" element={<RajaRao4 />} />
+          <Route path="Padmaraju5" element={<Padmaraju5 />} />
+          <Route path="Daruwala6" element={<Daruwala6 />} />
         </Route>
 
         <Route path="/Core2" element={<Core2 />}>
           <Route path="Lawrence1" element={<Lawrence1 />} />
           <Route path="Forster2" element={<Forster2 />} />
           <Route path="HenryJames3" element={<HenryJames3 />} />
+          <Route path="VirginiaWoolf1" element={<VirginiaWoolf1 />} />
+          <Route path="Huxley2" element={<Huxley2 />} />
+          <Route path="Golding3" element={<Golding3 />} />
         </Route>
 
         <Route path="/Core3" element={<Core3 />} />
