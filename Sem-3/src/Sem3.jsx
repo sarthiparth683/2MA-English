@@ -23,7 +23,6 @@ import Wordsworth1 from "./CC-304/unit2/Wordsworth1";
 import Eliot1 from "./CC-304/unit3/Eliot1";
 import Eliot2 from "./CC-304/unit3/Eliot2";
 import Richard1 from "./CC-304/unit3/Richard1";
-import Richard2 from "./CC-304/unit3/Richard2";
 import Structural from "./CC-304/unit4/Structural";
 import Feminism from "./CC-304/unit5/Feminism";
 import Rajgopal1 from "./CC-301/unit-2/1Rajgopal";
@@ -35,6 +34,15 @@ import Daruwala6 from "./CC-301/unit-2/6Daruwala";
 import VirginiaWoolf1 from "./CC-302/unit2/1VirginiaWoolf";
 import Huxley2 from "./CC-302/unit2/2Huxley";
 import Golding3 from "./CC-302/unit2/3Golding";
+import Bacon1 from "./CC-303/1Bacon";
+import Addison2 from "./CC-303/2Addison";
+import Steele3 from "./CC-303/3Steele";
+import Bible4 from "./CC-303/4Bible";
+import Lamb5 from "./CC-303/5Lamb";
+import Ruskin6 from "./CC-303/6Ruskin";
+import Grandier7 from "./CC-303/7Grandier";
+import Lynd8 from "./CC-303/8Lynd";
+import Lucas9 from "./CC-303/9Lucas";
 
 const Sem3 = () => {
   return (
@@ -65,7 +73,6 @@ const Sem3 = () => {
           <Route path="Jayant5" element={<Jayant5 />} />
           <Route path="Ramanujan6" element={<Ramanujan6 />} />
           <Route path="Sarthi7" element={<Sarthi7 />} />
-
           <Route path="Rajgopal1" element={<Rajgopal1 />} />
           <Route path="RKNarayan2" element={<RKNarayan2 />} />
           <Route path="Anand3" element={<Anand3 />} />
@@ -83,7 +90,17 @@ const Sem3 = () => {
           <Route path="Golding3" element={<Golding3 />} />
         </Route>
 
-        <Route path="/Core3" element={<Core3 />} />
+        <Route path="/Core3" element={<Core3 />}>
+          <Route path="Bacon1" element={<Bacon1 />} />
+          <Route path="Addison2" element={<Addison2 />} />
+          <Route path="Steele3" element={<Steele3 />} />
+          <Route path="Bible4" element={<Bible4 />} />
+          <Route path="Lamb5" element={<Lamb5 />} />
+          <Route path="Ruskin6" element={<Ruskin6 />} />
+          <Route path="Grandier7" element={<Grandier7 />} />
+          <Route path="Lynd8" element={<Lynd8 />} />
+          <Route path="Lucas9" element={<Lucas9 />} />
+        </Route>
 
         <Route path="/Core4" element={<Core4 />}>
           <Route path="Johnson2" element={<Johnson2 />} />
@@ -94,7 +111,6 @@ const Sem3 = () => {
           <Route path="Eliot1" element={<Eliot1 />} />
           <Route path="Eliot2" element={<Eliot2 />} />
           <Route path="Richard1" element={<Richard1 />} />
-          <Route path="Richard2" element={<Richard2 />} />
           <Route path="Structural" element={<Structural />} />
           <Route path="Feminism" element={<Feminism />} />
         </Route>

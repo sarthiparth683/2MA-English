@@ -4,47 +4,9 @@ const Feminism = () => {
   return (
     <div>
       <h1>UNIT-V Feminism, Postcolonialism, Psychoanalytic Theory and criticism, Orientalism, Eco Criticism</h1>
-      <div>
-        Feminism :-
-        <a href="https://youtu.be/lnxqJepfIX0?feature=shared" target="_blank">
-          video1
-        </a>
-      </div>
-      <div>
-        Postcolonialism :-
-        <a href="https://youtu.be/1nC428rtMB8?feature=shared" target="_blank">
-          video1
-        </a>
-        <span> </span>
-        <a href="https://youtu.be/F5rIdc-rhhk?feature=shared">video2</a>
-      </div>
-      <div>
-        Psychoanalytic Theory:-
-        <a href="https://youtu.be/dB61PyErm2I?feature=shared" target="_blank">
-          video1
-        </a>
-        <span> </span>
-        <a href="https://youtu.be/WuXC2BpUtqk?feature=shared">video2</a>
-      </div>
-      <div>
-        criticism:-
-        <a href="https://youtu.be/qrQoBcfyp6A?feature=shared" target="_blank">
-          video1
-        </a>
-      </div>
-      <div>
-        Orientalism
-        <a href="https://youtu.be/lkr19rUBoxc?feature=shared" target="_blank">
-          video1
-        </a>
-        <a href="https://youtu.be/dc-5o1CJigk?feature=shared" target="_blank">
-          video1
-        </a>
-      </div>
-      <div>Eco Criticism</div>
+
       <div>
         <div>
-          
           1. Feminism in Literature Feminism in literature examines the roles, experiences, and representation of women, often highlighting their oppression
           under patriarchal structures. Feminist criticism emerged in the 1960s and 1970s alongside the second-wave feminist movement. Key Figures and Works:
           Mary Wollstonecraft: A Vindication of the Rights of Woman (1792), advocating for women’s education. Simone de Beauvoir: The Second Sex (1949),
@@ -54,6 +16,9 @@ const Feminism = () => {
           study of women’s writing. Intersectionality: Examining how race, class, and sexuality intersect with gender oppression. Applications in Literature:
           Feminist criticism has re-evaluated works like Jane Eyre by Charlotte Brontë, emphasizing Jane's struggle for autonomy, or The Awakening by Kate
           Chopin, highlighting themes of female independence.
+          <a href="https://youtu.be/lnxqJepfIX0?feature=shared" target="_blank">
+            video1
+          </a>
         </div>
         <div>
           2. Postcolonialism Postcolonialism critiques the cultural legacy of colonialism and imperialism, focusing on the human consequences of external
@@ -63,6 +28,10 @@ const Feminism = () => {
           individuals imitating the colonizer’s culture, often to subversive ends. Subaltern: Gayatri Spivak’s term for marginalized voices excluded from
           dominant discourse. Key Applications: Postcolonial analysis of Chinua Achebe’s Things Fall Apart examines the disruption of Igbo society by colonial
           forces. Salman Rushdie’s Midnight’s Children reflects on the complex identity of postcolonial India.
+          <a href="https://youtu.be/1nC428rtMB8?feature=shared" target="_blank">
+            video1
+          </a>
+          <a href="https://youtu.be/F5rIdc-rhhk?feature=shared">video2</a>
         </div>
         <div>
           3. Psychoanalytic Theory and Criticism Psychoanalytic criticism, grounded in Sigmund Freud’s theories, explores the unconscious motives of characters
@@ -73,6 +42,14 @@ const Feminism = () => {
           order, connecting language to identity formation. Julia Kristeva: Powers of Horror (1980), analyzing abjection and the breakdown of boundaries.
           Applications in Literature: Shakespeare’s Hamlet is often analyzed through the Oedipus complex. Mary Shelley’s Frankenstein can be seen as a study of
           repressed desires and the "monster within."
+          <a href="https://youtu.be/dB61PyErm2I?feature=shared" target="_blank">
+            video1
+          </a>
+          <span> </span>
+          <a href="https://youtu.be/WuXC2BpUtqk?feature=shared">video2</a>
+          <a href="https://youtu.be/qrQoBcfyp6A?feature=shared" target="_blank">
+            Criticism
+          </a>
         </div>
         <div>
           4. Orientalism Edward Said’s Orientalism (1978) critiques how the West has historically constructed the East as the "Other"—exotic, irrational, and
@@ -81,6 +58,12 @@ const Feminism = () => {
           exoticizing those deemed "different." Impact: Orientalism shaped Western literature, art, and academia by reinforcing stereotypes about Asia, the
           Middle East, and Africa. Applications: The portrayal of Eastern characters in texts like A Passage to India by E.M. Forster reflects Western biases.
           Analysis of The Arabian Nights showcases how Eastern stories were appropriated and recontextualized for Western audiences.
+          <a href="https://youtu.be/lkr19rUBoxc?feature=shared" target="_blank">
+            video1
+          </a>
+          <a href="https://youtu.be/dc-5o1CJigk?feature=shared" target="_blank">
+            video1
+          </a>
         </div>
         <div>
           5. Eco Criticism Eco-criticism examines the relationship between literature and the natural environment, often critiquing human-centered

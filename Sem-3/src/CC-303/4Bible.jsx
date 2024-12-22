@@ -9,3 +9,4 @@ const Bible4 = () => {
 };
 
 export default Bible4;
+   

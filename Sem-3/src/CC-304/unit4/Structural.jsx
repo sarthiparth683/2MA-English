@@ -4,15 +4,7 @@ const Structural = () => {
   return (
     <div>
       <h1>UNIT-IV Structuralism, Modernism, Postmodernism, Poststructuralism</h1>
-      <div>
-        <div>
-          Structuralism:-
-          <a href="https://youtu.be/GaZ3w3TLvEc?feature=shared">Video1</a>
-        </div>
-        <div></div>
-        <div></div>
-        <div></div>
-      </div>
+
       <div>
         1. Structuralism Definition and Origins: Structuralism is a theoretical framework that emerged in the early 20th century, originating from linguistics,
         particularly the work of Ferdinand de Saussure. It focuses on the underlying structures that govern cultural products, such as language, literature, and

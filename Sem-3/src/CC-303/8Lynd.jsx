@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 const Lynd8 = () => {
   return (
@@ -6,7 +6,7 @@ const Lynd8 = () => {
       <h1>Robert Lynd: On forgetting, On Doing Nothing</h1>
       <h1>Robert Lynd: On forgetting, On Doing Nothing</h1>
     </div>
-  )
-}
+  );
+};
 
-export default Lynd8
+export default Lynd8;
